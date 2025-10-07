@@ -1,0 +1,21 @@
+{
+  "name": "leads_linkedin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.18.0",
+  "engines": {
+    "node": "23.11.1"
+  },
+  "dependencies": {
+    "chromedriver": "141.0.0",
+    "selenium-webdriver": "4.36.0",
+    "update": "0.7.4"
+  }
+}
